@@ -3,7 +3,7 @@ Exploring Covid 19 Dataset
 
 The Dataset is found in https://ourworldindata.org/covid-deaths 
 
-Skills showcased: Joins, Aggregate functions, Window Functions, Joins, CTE, Temporary Tables
+Skills showcased: Joins, Aggregate functions, Window Functions, CTE, Temporary Tables
 
 */
 
